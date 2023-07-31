@@ -1,0 +1,37 @@
+[0.288s] Invoking command in '/home/imleb/rgb_ex/src/rgb_subscriber': CONDA_PROMPT_MODIFIER=(cv_env) PYTHONPATH=/home/imleb/rgb_ex/build/rgb_subscriber/prefix_override:/home/imleb/rgb_ex/install/rgb_subscriber/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rgb_subscriber build --build-base /home/imleb/rgb_ex/build/rgb_subscriber/build install --record /home/imleb/rgb_ex/build/rgb_subscriber/install.log --install-scripts $base/lib/rgb_subscriber --single-version-externally-managed
+[0.369s] running egg_info
+[0.369s] creating ../../build/rgb_subscriber/rgb_subscriber.egg-info
+[0.369s] writing ../../build/rgb_subscriber/rgb_subscriber.egg-info/PKG-INFO
+[0.369s] writing dependency_links to ../../build/rgb_subscriber/rgb_subscriber.egg-info/dependency_links.txt
+[0.369s] writing entry points to ../../build/rgb_subscriber/rgb_subscriber.egg-info/entry_points.txt
+[0.369s] writing requirements to ../../build/rgb_subscriber/rgb_subscriber.egg-info/requires.txt
+[0.369s] writing top-level names to ../../build/rgb_subscriber/rgb_subscriber.egg-info/top_level.txt
+[0.369s] writing manifest file '../../build/rgb_subscriber/rgb_subscriber.egg-info/SOURCES.txt'
+[0.382s] reading manifest file '../../build/rgb_subscriber/rgb_subscriber.egg-info/SOURCES.txt'
+[0.383s] writing manifest file '../../build/rgb_subscriber/rgb_subscriber.egg-info/SOURCES.txt'
+[0.383s] running build
+[0.383s] running build_py
+[0.383s] creating /home/imleb/rgb_ex/build/rgb_subscriber/build
+[0.383s] creating /home/imleb/rgb_ex/build/rgb_subscriber/build/lib
+[0.383s] creating /home/imleb/rgb_ex/build/rgb_subscriber/build/lib/rgb_subscriber
+[0.383s] copying rgb_subscriber/__init__.py -> /home/imleb/rgb_ex/build/rgb_subscriber/build/lib/rgb_subscriber
+[0.383s] copying rgb_subscriber/display_rgb.py -> /home/imleb/rgb_ex/build/rgb_subscriber/build/lib/rgb_subscriber
+[0.383s] running install
+[0.383s] running install_lib
+[0.383s] creating /home/imleb/rgb_ex/install/rgb_subscriber/lib/python3.8/site-packages/rgb_subscriber
+[0.383s] copying /home/imleb/rgb_ex/build/rgb_subscriber/build/lib/rgb_subscriber/__init__.py -> /home/imleb/rgb_ex/install/rgb_subscriber/lib/python3.8/site-packages/rgb_subscriber
+[0.383s] copying /home/imleb/rgb_ex/build/rgb_subscriber/build/lib/rgb_subscriber/display_rgb.py -> /home/imleb/rgb_ex/install/rgb_subscriber/lib/python3.8/site-packages/rgb_subscriber
+[0.384s] byte-compiling /home/imleb/rgb_ex/install/rgb_subscriber/lib/python3.8/site-packages/rgb_subscriber/__init__.py to __init__.cpython-38.pyc
+[0.384s] byte-compiling /home/imleb/rgb_ex/install/rgb_subscriber/lib/python3.8/site-packages/rgb_subscriber/display_rgb.py to display_rgb.cpython-38.pyc
+[0.384s] running install_data
+[0.384s] creating /home/imleb/rgb_ex/install/rgb_subscriber/share/ament_index
+[0.384s] creating /home/imleb/rgb_ex/install/rgb_subscriber/share/ament_index/resource_index
+[0.384s] creating /home/imleb/rgb_ex/install/rgb_subscriber/share/ament_index/resource_index/packages
+[0.384s] copying resource/rgb_subscriber -> /home/imleb/rgb_ex/install/rgb_subscriber/share/ament_index/resource_index/packages
+[0.384s] copying package.xml -> /home/imleb/rgb_ex/install/rgb_subscriber/share/rgb_subscriber
+[0.384s] running install_egg_info
+[0.385s] Copying ../../build/rgb_subscriber/rgb_subscriber.egg-info to /home/imleb/rgb_ex/install/rgb_subscriber/lib/python3.8/site-packages/rgb_subscriber-0.0.0-py3.8.egg-info
+[0.385s] running install_scripts
+[0.392s] Installing rgb_subscriber_node script to /home/imleb/rgb_ex/install/rgb_subscriber/lib/rgb_subscriber
+[0.392s] writing list of installed files to '/home/imleb/rgb_ex/build/rgb_subscriber/install.log'
+[0.401s] Invoked command in '/home/imleb/rgb_ex/src/rgb_subscriber' returned '0': CONDA_PROMPT_MODIFIER=(cv_env) PYTHONPATH=/home/imleb/rgb_ex/build/rgb_subscriber/prefix_override:/home/imleb/rgb_ex/install/rgb_subscriber/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rgb_subscriber build --build-base /home/imleb/rgb_ex/build/rgb_subscriber/build install --record /home/imleb/rgb_ex/build/rgb_subscriber/install.log --install-scripts $base/lib/rgb_subscriber --single-version-externally-managed

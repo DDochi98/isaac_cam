@@ -1,0 +1,26 @@
+[0.308s] Invoking command in '/home/imleb/rgb_ex/src/rgb_subscriber': CONDA_PROMPT_MODIFIER=(cv_env) PYTHONPATH=/home/imleb/rgb_ex/build/rgb_subscriber/prefix_override:/home/imleb/rgb_ex/install/rgb_subscriber/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rgb_subscriber build --build-base /home/imleb/rgb_ex/build/rgb_subscriber/build install --record /home/imleb/rgb_ex/build/rgb_subscriber/install.log --install-scripts $base/lib/rgb_subscriber --single-version-externally-managed
+[0.395s] running egg_info
+[0.395s] writing ../../build/rgb_subscriber/rgb_subscriber.egg-info/PKG-INFO
+[0.395s] writing dependency_links to ../../build/rgb_subscriber/rgb_subscriber.egg-info/dependency_links.txt
+[0.395s] writing entry points to ../../build/rgb_subscriber/rgb_subscriber.egg-info/entry_points.txt
+[0.395s] writing requirements to ../../build/rgb_subscriber/rgb_subscriber.egg-info/requires.txt
+[0.395s] writing top-level names to ../../build/rgb_subscriber/rgb_subscriber.egg-info/top_level.txt
+[0.409s] reading manifest file '../../build/rgb_subscriber/rgb_subscriber.egg-info/SOURCES.txt'
+[0.409s] writing manifest file '../../build/rgb_subscriber/rgb_subscriber.egg-info/SOURCES.txt'
+[0.409s] running build
+[0.409s] running build_py
+[0.409s] copying rgb_subscriber/display_depth.py -> /home/imleb/rgb_ex/build/rgb_subscriber/build/lib/rgb_subscriber
+[0.410s] running install
+[0.410s] running install_lib
+[0.410s] copying /home/imleb/rgb_ex/build/rgb_subscriber/build/lib/rgb_subscriber/display_depth.py -> /home/imleb/rgb_ex/install/rgb_subscriber/lib/python3.8/site-packages/rgb_subscriber
+[0.411s] byte-compiling /home/imleb/rgb_ex/install/rgb_subscriber/lib/python3.8/site-packages/rgb_subscriber/display_depth.py to display_depth.cpython-38.pyc
+[0.411s] running install_data
+[0.411s] Sorry: TabError: inconsistent use of tabs and spaces in indentation (display_depth.py, line 24)
+[0.411s] running install_egg_info
+[0.412s] removing '/home/imleb/rgb_ex/install/rgb_subscriber/lib/python3.8/site-packages/rgb_subscriber-0.0.0-py3.8.egg-info' (and everything under it)
+[0.412s] Copying ../../build/rgb_subscriber/rgb_subscriber.egg-info to /home/imleb/rgb_ex/install/rgb_subscriber/lib/python3.8/site-packages/rgb_subscriber-0.0.0-py3.8.egg-info
+[0.412s] running install_scripts
+[0.419s] Installing depth_subscriber_node script to /home/imleb/rgb_ex/install/rgb_subscriber/lib/rgb_subscriber
+[0.419s] Installing rgb_subscriber_node script to /home/imleb/rgb_ex/install/rgb_subscriber/lib/rgb_subscriber
+[0.419s] writing list of installed files to '/home/imleb/rgb_ex/build/rgb_subscriber/install.log'
+[0.428s] Invoked command in '/home/imleb/rgb_ex/src/rgb_subscriber' returned '0': CONDA_PROMPT_MODIFIER=(cv_env) PYTHONPATH=/home/imleb/rgb_ex/build/rgb_subscriber/prefix_override:/home/imleb/rgb_ex/install/rgb_subscriber/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rgb_subscriber build --build-base /home/imleb/rgb_ex/build/rgb_subscriber/build install --record /home/imleb/rgb_ex/build/rgb_subscriber/install.log --install-scripts $base/lib/rgb_subscriber --single-version-externally-managed

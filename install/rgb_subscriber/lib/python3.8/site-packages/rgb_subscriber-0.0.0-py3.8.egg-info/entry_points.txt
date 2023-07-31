@@ -1,0 +1,4 @@
+[console_scripts]
+depth_subscriber_node = rgb_subscriber.display_depth:main
+rgb_subscriber_node = rgb_subscriber.display_rgb:main
+
